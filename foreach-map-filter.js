@@ -15,7 +15,7 @@ function doubleValues(arr) {
 }
 
 /*
-Write a function called onlyEvenValues which accepts an array and returns a new array with only the even values in the array passed to the function
+Write a functifgon called onlyEvenValues which accepts an array and returns a new array with only the even values in the array passed to the function
 
 Examples:
     onlyEvenValues([1,2,3]) // [2]
